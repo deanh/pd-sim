@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://1cr6pst0tjij"]
+
+[ext_resource type="Script" path="res://Scripts/RecipeBehavior.gd" id="1_hfygn"]
+
+[node name="Recipe" type="Node"]
+script = ExtResource("1_hfygn")

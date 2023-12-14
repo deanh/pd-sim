@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bn482i3v0cco2"]
+
+[ext_resource type="Script" path="res://Scripts/ProductionCenterBehavior.gd" id="1_n8g3n"]
+
+[node name="ProductionCenter" type="Node"]
+script = ExtResource("1_n8g3n")
+
+[node name="pc_icon" type="Sprite2D" parent="."]
